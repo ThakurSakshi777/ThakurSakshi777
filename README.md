@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Sakshi Singh  
 
-<!--
-**ThakurSakshi777/ThakurSakshi777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | Tech Enthusiast  
 
-Here are some ideas to get you started:
+🌟 About Me  
+- 🔭 Currently working on **Full Stack Web Development Projects**  
+- 🌱 Learning **React.js, Node.js, MongoDB, and Cloud**  
+- 💡 Passionate about building scalable web apps and exploring new technologies  
+- 🚀 Looking for **Internships / Job Opportunities** in Web Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack  
+**Languages:** JavaScript, PHP, HTML, CSS  
+**Frameworks & Libraries:** React.js, Angular, Node.js, Express.js  
+**Databases:** MySQL, MongoDB  
+**Tools & Platforms:** Git, GitHub, VS Code, Postman  
+
+---
+## 📌 Featured Projects  
+- 🏠 [Property-Rental](https://github.com/ThakurSakshi777/Property-Rental) – Property rental website built with React & Node.js  
+- 🍴 [Restaurant-Web](https://github.com/ThakurSakshi777/-Restaurant-Web-) – Full-stack restaurant web app using MERN stack  
+- 🏋️‍♀️ [Gym Web](https://github.com/ThakurSakshi777/gym_web) – Fitness website with MongoDB integration  
+- 💊 [Pharose Remedies Ltd](https://github.com/ThakurSakshi777/Pharose-Remedies-Ltd) – React-based company website  
+
+---
+
+## 📫 Connect with Me  
+[LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-singh-4b18712a1/)  
+[Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)]()  
+📧 Email: your-email@example.com  
+
+---
+
+⭐️ From [Sakshi Singh](https://github.com/ThakurSakshi777)
