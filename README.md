@@ -28,7 +28,7 @@
 ## 📫 Connect with Me  
 [LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-singh-4b18712a1/)  
 [Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://timely-fox-91530e.netlify.app/)  
-📧 Email: itsakshi.gmail.com 
+📧 Email: itsakshisingh@gmail.com 
 
 ---
 
